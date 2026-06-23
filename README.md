@@ -1,4 +1,4 @@
-💫 About Me:
+# 💫 About Me:
 
 🔭 Looking to collaborate on<br>
 MERN stack and Next.js projects, especially anything with real-time flows, payments, or role-based dashboards<br><br>
