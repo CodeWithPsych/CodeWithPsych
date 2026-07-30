@@ -6,6 +6,11 @@ MERN stack and Next.js projects, especially anything with real-time flows, payme
 Optimizing backend performance for apps handling lots of concurrent requests<br><br>
 💬 Ask me about<br>
 MERN stack, Next.js, REST APIs, Stripe, or Cloudinary
+## 🌐 Portfolio
+
+🔗 https://arhamsaleem.online
+
+Explore my projects, experience, skills, and contact information.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/arham.malik.5015/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mr_._psych/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arham-saleem/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@codewithpsych?_r=1&_t=ZS-97RF1U89vzo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ArhamSaleem900) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arhammalik900@yahoo.com) 
